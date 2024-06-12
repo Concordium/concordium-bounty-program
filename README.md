@@ -8,13 +8,13 @@ There will be numerous bounty tasks, technical grants, and more for our bellowed
 
 # Bounties of the first session
  
-- [Metamask Snaps] (https://github.com/bogacyigitbasi/Concordium-Bounty-Program/issues/8) `10.5k EUROe💰`
-- [Testnet Faucet] (https://github.com/bogacyigitbasi/Concordium-Bounty-Program/issues/2) `3k EUROe💰`
-- [Track and Trace v2] (https://github.com/bogacyigitbasi/Concordium-Bounty-Program/issues/3) `3k EUROe💰`
-- [Tutorial - Mobile dApp using WalletConnect] (https://github.com/bogacyigitbasi/Concordium-Bounty-Program/issues/4) `2k EUROe💰`
-- [Tutorial - Simple DEX using Concordium ID] (https://github.com/bogacyigitbasi/Concordium-Bounty-Program/issues/5) `2k EUROe💰`
-- [Tutorial - Full Stack Staking dApp] (https://github.com/bogacyigitbasi/Concordium-Bounty-Program/issues/6) `1.5k EUROe💰`
-- [Tutorial - Smart Contract Accounts] (https://github.com/bogacyigitbasi/Concordium-Bounty-Program/issues/7) `2k EUROe💰`
+- [Metamask Snaps] (https://github.com/Concordium/concordium-bounty-program/issues/7) `10.5k EUROe💰`
+- [Testnet Faucet] (https://github.com/Concordium/concordium-bounty-program/issues/1) `3k EUROe💰`
+- [Track and Trace v2] (https://github.com/Concordium/concordium-bounty-program/issues/2) `3k EUROe💰`
+- [Tutorial - Mobile dApp using WalletConnect] (https://github.com/Concordium/concordium-bounty-program/issues/3) `2k EUROe💰`
+- [Tutorial - Simple DEX using Concordium ID] (https://github.com/Concordium/concordium-bounty-program/issues/4) `2k EUROe💰`
+- [Tutorial - Full Stack Staking dApp] (https://github.com/Concordium/concordium-bounty-program/issues/5) `1.5k EUROe💰`
+- [Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `2k EUROe💰`
 
 
 
