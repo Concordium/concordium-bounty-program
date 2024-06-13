@@ -1,4 +1,5 @@
 # 🎉🎉 Concordium Bounty Program 🎉🎉
+![IMG_5925](https://github.com/bogacyigitbasi/concordium-bounty-program/assets/110228281/7af9d211-1e52-4a54-9982-668b4600f859)
 
 Fellow Concordians, we are delighted to announce the Concordium Bounty Program. [Concordium](https://github.com/Concordium) as a public, permissionless layer-1 focusing on identity is announcing a bounty program where you can participate in growing our ecosystem and tooling. We are looking for freelancer developers, professional developer houses, or people who can code and know Concordium inside and out! To grow our developer ecosystem, hereby we are announcing the bounty program. Please participate in this bounty program, show us your dedication and skills, get paid in CCDs, and more importantly, get on a list of verified developers. 
 
