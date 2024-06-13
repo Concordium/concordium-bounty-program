@@ -18,7 +18,7 @@ There will be numerous bounty tasks, technical grants, and more for our bellowed
 - [Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `2k EUROe💰`
 
 # Important Notes
-- If you have any questions, suggestions, or proposals please use Support Portal. (https://support.concordium.software/c/bounty-program/14)
+- If you have any questions, suggestions, or proposals please use the support portal:(https://support.concordium.software/c/bounty-program/14).
 - If you are going to start building a bounty task, please comment on the issue so that others can track it. 
 - Please read the Code of Conduct before participating in the program. There might be restrictions that are valid for you and may affect your submission. 
 - Lastly, community feedback is extremely important for us and we are open to any kind of constructive critique and suggestion. 
