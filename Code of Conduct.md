@@ -5,7 +5,9 @@ Please read these Terms & Conditions carefully before participating in the onlin
 The bounty program is organized by Concordium AG ("Concordium”), primarily encouraging participants to help the Concordium community by creating step-by-step tutorials related to the Concordium blockchain and/or providing asked features and tools.
 All participants must comply with applicable laws and regulations when releasing any software developed during the bounty program. Concordium does not encourage or allow the deployment of applications in violation of applicable laws or regulations and Concordium reserves the right to disqualify any participant found to be in violation of these Terms & Conditions or engaged in fraudulent or unethical practices.
 The developer resources provided by Concordium are for educational and inspirational purposes only.
-IP rights
+
+##IP rights
+
 The intellectual property rights of the tutorials and other materials submitted as part of the bounty program will be owned by the respective participants who have provided the content. However, the participants agree to grant Concordium a non-exclusive, worldwide, royalty-free license to reproduce, modify, adapt, publish, and display the submitted material for promotional purposes, incl. marketing, commercial, advertisement, or educational purposes.
 By participating in the bounty program, participants warrant that the tutorial or feature material provided does not infringe on any third party's intellectual property rights.
 ## Selection of Winners
