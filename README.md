@@ -10,12 +10,12 @@ There will be numerous bounty tasks, technical grants, and more for our bellowed
 
 # Bounties of the first season 6/14/24 - 8/30/24
 
-- [Testnet Faucet] (https://github.com/Concordium/concordium-bounty-program/issues/1) `3k EUROe💰`
-- [Track and Trace v2] (https://github.com/Concordium/concordium-bounty-program/issues/2) `3k EUROe💰`
-- [Tutorial - Mobile dApp using WalletConnect] (https://github.com/Concordium/concordium-bounty-program/issues/3) `2k EUROe💰`
-- [Tutorial - Simple DEX using Concordium ID] (https://github.com/Concordium/concordium-bounty-program/issues/4) `2k EUROe💰`
-- [Tutorial - Full Stack Staking dApp] (https://github.com/Concordium/concordium-bounty-program/issues/5) `1.5k EUROe💰`
-- [Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `2k EUROe💰`
+- [Testnet Faucet] (https://github.com/Concordium/concordium-bounty-program/issues/1) `$3k💰`
+- [Track and Trace v2] (https://github.com/Concordium/concordium-bounty-program/issues/2) `$3k💰`
+- [Tutorial - Mobile dApp using WalletConnect] (https://github.com/Concordium/concordium-bounty-program/issues/3) `$2k💰`
+- [Tutorial - Simple DEX using Concordium ID] (https://github.com/Concordium/concordium-bounty-program/issues/4) `$2k💰`
+- [Tutorial - Full Stack Staking dApp] (https://github.com/Concordium/concordium-bounty-program/issues/5) `$1.5k💰`
+- [Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `$2k💰`
 
 # Important Notes
 
@@ -23,3 +23,4 @@ There will be numerous bounty tasks, technical grants, and more for our bellowed
 - If you are going to start building a bounty task, please comment on the issue so that others can track it.
 - Please read the Code of Conduct before participating in the program. There might be restrictions that are valid for you and may affect your submission.
 - Lastly, community feedback is extremely important for us and we are open to any kind of constructive critique and suggestion.
+- Rewards will be paid in $CCDs and total amounts will be calculated on the transfer day.
