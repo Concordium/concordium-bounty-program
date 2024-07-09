@@ -23,4 +23,4 @@ There will be numerous bounty tasks, technical grants, and more for our bellowed
 - If you are going to start building a bounty task, please comment on the issue so that others can track it.
 - Please read the Code of Conduct before participating in the program. There might be restrictions that are valid for you and may affect your submission.
 - Lastly, community feedback is extremely important for us and we are open to any kind of constructive critique and suggestion.
-- Rewards will be paid in $CCDs and total amounts will be calculated on the transfer day.
+- Rewards will be paid in CCDs (the native currency of the Concordium blockchain) and the total amount will be calculated by converting the USD price into CCDs on the transfer day.
