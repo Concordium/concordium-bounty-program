@@ -2,11 +2,30 @@
 
 ![IMG_5925](https://github.com/bogacyigitbasi/concordium-bounty-program/assets/110228281/7af9d211-1e52-4a54-9982-668b4600f859)
 
-Fellow Concordians, we are delighted to announce the Concordium Bounty Program. [Concordium](https://github.com/Concordium) as a public, permissionless layer-1 focusing on identity is announcing a bounty program where you can participate in growing our ecosystem and tooling. We are looking for freelancer developers, professional developer houses, or people who can code and know Concordium inside and out! To grow our developer ecosystem, hereby we are announcing the bounty program. Please participate in this bounty program, show us your dedication and skills, get paid in CCDs, and more importantly, get on a list of verified developers.
+Fellow Concordians, we are delighted to announce the Concordium Bounty Program. 
 
-Each bounty has a reward to encourage developers to acquire, we are welcoming everybody from beginner level to experts to participate. Please be aware that, we do see this this first iteration of the experimental bounty program as a chance to understand the points we can improve. We will collect all feedback during the program to understand how to make a more concrete process if it is needed
 
-There will be numerous bounty tasks, technical grants, and more for our bellowed Concordians. The point of these developer activities is to attract and guide new developers with open-source material to let them implement robust, reliable, state-of-the-art applications. Concordium as a layer-1 blockchain, will never be a company that commercializes these tools instead, it will produce them for the sake of community success. The program will not only allow you to make money but also clear your skills to get hired inside the ecosystem. Stay tuned for more tasks!
+This is the first iteration of the program which we expect will help us and you to understand each other better and build a great developer ecosystem to support Concordium’s fast-growing use case pipeline. 
+
+
+Concordium is a public permissionless layer-1 that offers developers the platform to work across all business segments and use cases.   
+
+
+We are seeking freelancer developers, professional developer houses, and coders who we should come to know Concordium inside out! By participating in this bounty program you have an opportunity to show and validate your skills so we can add you to our list of verified developers we offer out to use cases. 
+
+
+Each bounty offers a reward, but that is only the beginning, an invitation if you like. We would expect to offer more opportunities to those who show us their capabilities and excellence.  
+
+
+We expect these developer activities to attract new developers who will implement robust, reliable, state-of-the-art applications. The program will not only allow you to make money but also validate your skills to get hired by Concordium’s clients.  
+
+
+Feedback will be provided during the program; your input is always welcome and will help us improve and evolve.
+ 
+Stay tuned for more tasks!
+
+
+
 
 # Bounties of the first season 6/14/24 - 8/30/24
 
