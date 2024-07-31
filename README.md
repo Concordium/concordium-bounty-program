@@ -1,31 +1,17 @@
-# 🎉🎉 Concordium Bounty Program 🎉🎉
+# Concordium Bounty Program
+![Concordium Bounty Program](https://github.com/user-attachments/assets/6d835241-9919-4280-a1df-ec221077230f)
 
-![IMG_5925](https://github.com/bogacyigitbasi/concordium-bounty-program/assets/110228281/7af9d211-1e52-4a54-9982-668b4600f859)
+The Concordium Bounty Program is here. This inaugural program aims to foster a deeper mutual understanding and build a robust developer ecosystem for Concordium’s expanding use case pipeline.
 
-Fellow Concordians, we are delighted to announce the Concordium Bounty Program. 
+Concordium, a public permissionless layer-1 with a built-in ID-layer, provides a versatile platform for developers to tackle diverse business segments and use cases. Concordium is on the lookout for talented freelancer developers, professional developer houses, and coders eager to master Concordium's intricacies.
 
+Participating in this bounty program gives you the chance to showcase and validate your skills, potentially joining our list of verified developers for various use cases. Each bounty comes with a reward, serving as an invitation to demonstrate your capabilities. Exceptional performance could lead to further opportunities.
 
-This is the first iteration of the program which we expect will help us and you to understand each other better and build a great developer ecosystem to support Concordium’s fast-growing use case pipeline. 
+The program aims to attract developers capable of creating robust, reliable, state-of-the-art applications. Beyond earning rewards, you’ll have the opportunity to validate your skills and get hired by Concordium’s clients.
 
+Your feedback is crucial and will be welcomed throughout the program to continually improve and evolve Concordium.
 
-Concordium is a public permissionless layer-1 that offers developers the platform to work across all business segments and use cases.   
-
-
-We are seeking freelancer developers, professional developer houses, and coders who we should come to know Concordium inside out! By participating in this bounty program you have an opportunity to show and validate your skills so we can add you to our list of verified developers we offer out to use cases. 
-
-
-Each bounty offers a reward, but that is only the beginning, an invitation if you like. We would expect to offer more opportunities to those who show us their capabilities and excellence.  
-
-
-We expect these developer activities to attract new developers who will implement robust, reliable, state-of-the-art applications. The program will not only allow you to make money but also validate your skills to get hired by Concordium’s clients.  
-
-
-Feedback will be provided during the program; your input is always welcome and will help us improve and evolve.
- 
-Stay tuned for more tasks!
-
-
-
+Stay tuned for more tasks! 
 
 # Bounties of the first season 6/14/24 - 8/30/24
 
