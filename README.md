@@ -15,7 +15,7 @@ Stay tuned for more tasks!
 
 # Bounties of the first season 6/14/24 - 8/30/24
 
-- [Testnet Faucet] (https://github.com/Concordium/concordium-bounty-program/issues/1) `$3k💰`
+- ~~[Testnet Faucet] (https://github.com/Concordium/concordium-bounty-program/issues/1) `$3k💰`~~ CLOSED! 
 - [Track and Trace v2] (https://github.com/Concordium/concordium-bounty-program/issues/2) `$3k💰`
 - [Tutorial - Mobile dApp using WalletConnect] (https://github.com/Concordium/concordium-bounty-program/issues/3) `$2k💰`
 - [Tutorial - Simple DEX using Concordium ID] (https://github.com/Concordium/concordium-bounty-program/issues/4) `$2k💰`
