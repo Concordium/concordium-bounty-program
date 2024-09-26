@@ -20,7 +20,7 @@ Stay tuned for more tasks!
 - [Tutorial - Mobile dApp using WalletConnect] (https://github.com/Concordium/concordium-bounty-program/issues/3) `$2k💰`
 - [Tutorial - Simple DEX using Concordium ID] (https://github.com/Concordium/concordium-bounty-program/issues/4) `$2k💰`
 - [Tutorial - Full Stack Staking dApp] (https://github.com/Concordium/concordium-bounty-program/issues/5) `$1.5k💰`
-- [Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `$2k💰`
+- ~~[Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `$2k💰`~~ CLOSED!
 
 # Important Notes
 
