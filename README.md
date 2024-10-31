@@ -25,7 +25,7 @@ Stay tuned for more tasks!
 # Important Notes
 
 - If you have any questions, suggestions, or proposals please use the support portal:(https://support.concordium.software/c/bounty-program/14).
-- If you are going to start building a bounty task, please comment on the issue so that others can track it.
+- If you are going to start building a bounty task, please comment on the issue so that others can track it. If you commented on the issue but haven't submitted anything, or haven't shown any progress for a long time Concordium team has a right to give the task to any other volunteer. From that moment first come first serve will apply. 
 - Please read the Code of Conduct before participating in the program. There might be restrictions that are valid for you and may affect your submission.
 - Lastly, community feedback is extremely important for us and we are open to any kind of constructive critique and suggestion.
 - Rewards will be paid in CCDs (the native currency of the Concordium blockchain) and the total amount will be calculated by converting the USD price into CCDs on the transfer day.
