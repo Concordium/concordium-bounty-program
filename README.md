@@ -16,11 +16,12 @@ Stay tuned for more tasks!
 # Bounties of the first season 6/14/24 - 8/30/24
 
 - ~~[Testnet Faucet] (https://github.com/Concordium/concordium-bounty-program/issues/1) `$3k💰`~~ CLOSED! 
-- ~~[Track and Trace v2] (https://github.com/Concordium/concordium-bounty-program/issues/2) `$3k💰`~~ SUBMITTED, IN REVIEW
+- ~~[Track and Trace v2] (https://github.com/Concordium/concordium-bounty-program/issues/2) `$3k💰`~~ SUBMITTED, IN REVIEW!
 - [Tutorial - Mobile dApp using WalletConnect] (https://github.com/Concordium/concordium-bounty-program/issues/3) `$2k💰`
 - [Tutorial - Simple DEX using Concordium ID] (https://github.com/Concordium/concordium-bounty-program/issues/4) `$2k💰`
-- ~~[Tutorial - Full Stack Staking dApp] (https://github.com/Concordium/concordium-bounty-program/issues/5) `$1.5k💰`~~ SUBMITTED, IN REVIEW 
-- ~~[Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `$2k💰`~~ CLOSED! [Repo] (https://github.com/BukiOffor/cis5-smart-contract-dapp.git) [Tutorial Part 1] (https://medium.com/@buki.offor/concordium-full-stack-smart-contract-account-tutorial-part-one-cdac8bcf0ff9) [Tutorial Part 2] (https://medium.com/@buki.offor/concordium-full-stack-smart-contract-account-tutorial-part-two-2aa6fb81f2b7) 
+- ~~[Tutorial - Full Stack Staking dApp] (https://github.com/Concordium/concordium-bounty-program/issues/5) `$1.5k💰`~~ SUBMITTED, IN REVIEW!
+- ~~[Tutorial - Smart Contract Accounts] (https://github.com/Concordium/concordium-bounty-program/issues/6) `$2k💰`~~ CLOSED! [Repo](https://github.com/BukiOffor/cis5-smart-contract-dapp.git)  [Tutorial Part 1](https://medium.com/@buki.offor/concordium-full-stack-smart-contract-account-tutorial-part-one-cdac8bcf0ff9)  [Tutorial Part 2](https://medium.com/@buki.offor/concordium-full-stack-smart-contract-account-tutorial-part-two-2aa6fb81f2b7)
+
 
 # Important Notes
 
